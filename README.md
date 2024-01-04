@@ -4,7 +4,7 @@ The data then is kept for more efficiency and enable enable them to support to g
 
 1. User friend interface
 
-2. Login and Registration System: Securely implemented for field officers to access their accounts
+2. Login and Registration System: Securely implemented for field officers to access their accounts 
  
 3.  Enrollment Feature: Allows field officers to register farmers, collecting name, phone number, location, unique ID, and preferred vegetable bundle.
    
