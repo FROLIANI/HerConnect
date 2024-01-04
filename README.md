@@ -1,4 +1,4 @@
-                                              # HerConnect
+# HerConnect
 This is mobile application that involve Field officers to register faamers especialy women selling vegetables and register with their bundles. 
 The data then is kept for more efficiency and enable enable them to support to grow their activities. The app has the following categories
 
