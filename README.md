@@ -18,12 +18,14 @@ The data then is kept for more efficiency and enable enable them to support to g
 			5. Run the project by write expo start
 			6. Use your expo go from your phone to scan QR code to start use app
 
-					   for startup login as field officer  
-					   username use email : froliernest98@gmail.com
-					   password: herveg123
+			   for startup login as field officer  
+			  username use email : froliernest98@gmail.com
+			  password: herveg123
 					   
 
                            #SCREENSHOOTS
+
+      
                            #Interface
 ![interface](https://github.com/FROLIANI/Herconnect/assets/84269100/e124c747-1589-49f6-942e-3d8e7756861d)
 
