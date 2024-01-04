@@ -10,7 +10,7 @@ The data then is kept for more efficiency and enable enable them to support to g
 6. Offline Mode: Enables app usage without an internet connection and syncs data with the server upon reconnection
 7.  Error Handling and Testing System: Ensures stability, reliability, and bug-free operation, providing feedback and logs for developers and users
 
-   # Usage  and installtion
+   # Usage  and installation
    1. Clone the project 
    2. Install npm or yarn for dependences eg npm install or    yarn add
    3. Make sure to install global CLI  ie npm install -g expo-cli
