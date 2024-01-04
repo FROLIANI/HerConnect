@@ -3,11 +3,17 @@ This is mobile application that involve Field officers to register faamers espec
 The data then is kept for more efficiency and enable enable them to support to grow their activities. The app has the following categories
 
 1.User friend interface
+
 2. Login and Registration System: Securely implemented for field officers to access their accounts
+   
 3.  Enrollment Feature: Allows field officers to register farmers, collecting name, phone number, location, unique ID, and preferred vegetable bundle.
+   
 4   Payment Feature: Records money paid by farmers and includes a live payment feature (integration with mobile money services).
+
 5.    Dashboard Feature: like Admin
+
 6. Offline Mode: Enables app usage without an internet connection and syncs data with the server upon reconnection
+ 
 7.  Error Handling and Testing System: Ensures stability, reliability, and bug-free operation, providing feedback and logs for developers and users
 
 #Usage  and installtion
@@ -18,9 +24,9 @@ The data then is kept for more efficiency and enable enable them to support to g
 5. Run the project by write expo start
 6. Use your expo go from your phone to scan QR code to start use app
 
-   for startup login as field officer  
-   username use email : froliernest98@gmail.com
-   password: herveg123
+for startup login as field officer  
+username use email : froliernest98@gmail.com
+ password: herveg123
    
 
                            #SCREENSHOOTS
