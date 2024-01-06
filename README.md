@@ -15,7 +15,7 @@ The data then is kept for more efficiency and enable enable them to support to g
    2. Install npm or yarn for dependences eg npm install or    yarn add
    3. Make sure to install global CLI  ie npm install -g expo-cli
    4.  Download expo go from your phone in the play store
-   5.   un the project by write expo start
+   5.   Run the project by write expo start
    6.   Go  to your expo go from your phone to scan QR code that appear to start use app
 
 #  For startup login as field officer  
